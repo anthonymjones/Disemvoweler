@@ -57,7 +57,7 @@ namespace Disemvoweler
             //print the original and the disemvoweled text
             Console.WriteLine(input);
             Console.WriteLine(disVowel);
-            //Console.WriteLine(vowelsKept);
+            // Console.WriteLine(vowelsKept);
         }
     }
 }
