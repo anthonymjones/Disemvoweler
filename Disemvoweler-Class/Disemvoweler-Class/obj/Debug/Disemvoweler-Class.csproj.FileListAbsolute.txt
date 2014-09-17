@@ -1,0 +1,5 @@
+C:\Users\anthonyjones\Documents\GitHub\Disemvoweler\Disemvoweler-Class\Disemvoweler-Class\bin\Debug\Disemvoweler-Class.exe.config
+C:\Users\anthonyjones\Documents\GitHub\Disemvoweler\Disemvoweler-Class\Disemvoweler-Class\bin\Debug\Disemvoweler-Class.exe
+C:\Users\anthonyjones\Documents\GitHub\Disemvoweler\Disemvoweler-Class\Disemvoweler-Class\bin\Debug\Disemvoweler-Class.pdb
+C:\Users\anthonyjones\Documents\GitHub\Disemvoweler\Disemvoweler-Class\Disemvoweler-Class\obj\Debug\Disemvoweler-Class.exe
+C:\Users\anthonyjones\Documents\GitHub\Disemvoweler\Disemvoweler-Class\Disemvoweler-Class\obj\Debug\Disemvoweler-Class.pdb
